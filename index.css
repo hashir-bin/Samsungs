@@ -1,0 +1,123 @@
+*{
+    
+    overflow-x: hidden;
+}
+.navItems span {
+    margin-right: 10px;
+    font-weight: 400;
+}
+.Items{
+    font-size: 1.2vw;
+}
+.Hi{
+    align-items: center;
+    justify-content: center;
+}
+.A{
+    margin-left: 87px;
+}
+.Img{
+    width: 26%;
+    border-radius: 35px;
+}
+.Image-Div{
+    background-color: #FEFAF9;
+}
+.Image-Section{
+    /* background-color: #FEFAF9; */
+    background-color: #FEFAF9;
+}
+.Shop-Text{
+    padding-left: 48px;
+}
+.Buy-Btn{
+    border-color: black;
+    color: white;
+    border-radius: 21px;
+    width: 95px;
+    height: 40px;
+    background-color: black;
+    margin-left: 38%;
+    margin-top: 5px;
+}
+.ul{
+    font-weight: bold;
+    
+    
+}
+.Radius-Image{
+    border-radius: 18px;
+}
+@media(max-width:768px){
+    .Radius-Image{
+    margin-top: 12px;
+    margin-left: 4px;
+    }
+}
+.ul-2{
+    font-weight: bold;
+}
+.Mobile-Div{
+    background-color: #FEFBF6;
+}
+.Input{
+    width: 44%;
+    height: 46px;
+    border-radius: 16px;
+    border-color: #0e0e0e;
+}
+.Galaxy{
+    width: 54%;
+}
+@media(max-width:765px){
+   .Firsht-Image{
+    display: flex;
+  
+   }
+}
+
+@media(max-width:768px){
+    .Img-2{
+        margin-left: 6px;
+       align-items: center;
+       text-align: center;
+
+    }
+}
+
+@media(max-width:995px){
+    .Size-Change{
+        font-size: 11px;
+        font-weight: bold;
+        
+       
+    }
+}
+@media(max-width:995px){
+    .Size-Change-2{
+        font-size: 1vw;
+        
+
+       
+    }
+}
+@media(max-width:738px){
+    .V{
+        display: none;
+    }
+}
+@media(max-width:738px){
+    .mob{
+        background-color: red;
+        width: 40%;
+    }
+}
+.V{
+    margin-left: 2%;
+}
+@media(max-width:738px){
+.Last-Image{
+    display: flex;
+    
+}
+}
